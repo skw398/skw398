@@ -33,6 +33,7 @@
 - [US-Economic-Indicators](https://github.com/skw398/US-Economic-Indicators)
 - [StockScreener](https://github.com/skw398/StockScreener)
 - [JsonPlaceholderApp](https://github.com/skw398/JsonPlaceholderApp-ChatGPT-Assisted)
+- [Double-Hasher-SHA256](https://github.com/skw398/Double-Hasher-SHA256)
 
 #### Chrome Extensions
 - [OR-Combinator](https://github.com/skw398/OR-Combinator)
