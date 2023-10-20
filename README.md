@@ -12,9 +12,6 @@
        style="height: 50px;">
 </a>
 
-|<img src="https://user-images.githubusercontent.com/114917347/233761121-d426c397-2754-4bc3-a0de-469920b48282.png" width="150">|<img src="https://user-images.githubusercontent.com/114917347/233761125-68388f04-091d-4e8d-a9e9-867c2584029e.png" width="150">|<img src="https://user-images.githubusercontent.com/114917347/233761130-17c9e6e3-4e8c-4a25-ab66-bc109bebfa89.png" width="150">|
-|:-:|:-:|:-:|
-
 ## Repositories
 
 #### UIKit Layouts
@@ -41,3 +38,5 @@
 ## Accounts
 - [GitHub](https://github.com/skw398)
 - [Wantedly](https://www.wantedly.com/id/skw398)
+- [YouTube](https://www.youtube.com/@Abc-py4sd)
+- [Qiita](https://qiita.com/skw398)
