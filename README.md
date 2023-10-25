@@ -32,7 +32,7 @@
 - [JsonPlaceholderApp](https://github.com/skw398/JsonPlaceholderApp-ChatGPT-Assisted)
 - [Double-Hasher-SHA256](https://github.com/skw398/Double-Hasher-SHA256)
 - [U.S.StockWatchlist](https://github.com/skw398/U.S.StockWatchlist)
-- [WhisperWebAudioFile](https://github.com/skw398/whisper.cpp-iOSExample)
+- [WhisperWebAudioFile](https://github.com/skw398/WhisperWebAudioFile)
 
 #### Chrome Extensions
 - [OR-Combinator](https://github.com/skw398/OR-Combinator)
